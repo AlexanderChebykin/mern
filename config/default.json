@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "vladilen yuotube man",
+    "mongoUri": "mongodb+srv://admin:12345@cluster0.wxgsd.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
